@@ -14,7 +14,7 @@
           job_args:
             extra_vars:
               hello: Fred
+            verify_ssl: false
           retries: 1
           delay: 10
-          ssl: false
 ...

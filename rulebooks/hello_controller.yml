@@ -13,7 +13,7 @@
           organization: Default
           job_args:
             extra_vars:
-              hello: Fred
+              _audience: USDA Automation Team
               _hosts: all
             verify_ssl: false
           retries: 1

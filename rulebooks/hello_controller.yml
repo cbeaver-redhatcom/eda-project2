@@ -9,7 +9,7 @@
       condition: event.i == 1
       action:
         run_job_template:
-          name: "LINUX / Fact Scan"
+          name: "Demo Message"
           organization: Default
           job_args:
             extra_vars:

@@ -16,5 +16,5 @@
               hello: Fred
           retries: 1
           delay: 10
-          verify_ssl: false
+          ssl: false
 ...
